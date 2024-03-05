@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Korn
-- 🎵 I’m interested in Digital Music Creation.
-- 🎓 I’m currently learning Data Science and ML.
-- 💞️ I’m not looking to collaborate.
-- 📫 How to reach me: just don't.
+- 🎵 Interested in Digital Music Creation.
+- 🎓 Currently learning Data Science and ML.
 
 <!---
 korn3lie/korn3lie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
