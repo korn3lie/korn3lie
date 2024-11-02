@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Korn
-- 🎵 Interested in Digital Music Creation.
-- 🎓 Currently learning Data Science and ML.
+- 🎓 Learning Data Science and ML at FAU Erlangen.
+- 💼 Working with Event Data at Siemens Mobility.
 
 <!---
 korn3lie/korn3lie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
